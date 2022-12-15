@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  UnitTest_8.1.char.cpp
+D:\НУЛП\АП\lab_8.1.char\lab_8.1.char\lab_8.1.char.cpp(14,15): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\НУЛП\АП\lab_8.1.char\lab_8.1.char\lab_8.1.char.cpp(25,15): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\НУЛП\АП\lab_8.1.char\lab_8.1.char\lab_8.1.char.cpp(36,15): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\НУЛП\АП\lab_8.1.char\lab_8.1.char\lab_8.1.char.cpp(58,18): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\НУЛП\АП\lab_8.1.char\lab_8.1.char\lab_8.1.char.cpp(70,19): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\НУЛП\АП\lab_8.1.char\lab_8.1.char\lab_8.1.char.cpp(82,20): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+     Creating library D:\НУЛП\АП\lab_8.1.char\x64\Debug\UnitTest_8.1.char.lib and object D:\НУЛП\АП\lab_8.1.char\x64\Debug\UnitTest_8.1.char.exp
+  UnitTest_8.1.char.vcxproj -> D:\НУЛП\АП\lab_8.1.char\x64\Debug\UnitTest_8.1.char.dll
